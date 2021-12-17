@@ -14,7 +14,7 @@ Meu objetivo com o Git é compartilhar e registrar o que venho aprendendo, esper
 ## Contatos
  - [E-mail](matoslarissa31@gmail.com) 💌
  - [Linkedin](https://linkedin.com/in/larissa-matos-b069091a1.com) 🔗
- - [Instagram](https://https://www.instagram.com/lari_rodrigues312/). 📷
+ - [Instagram](https://https://www.instagram.com/lari_rodrigues312/) 📷
 
 
 
