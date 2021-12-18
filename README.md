@@ -11,6 +11,7 @@ Meu objetivo com o Git é compartilhar e registrar o que venho aprendendo, esper
  - Database: PostgreSQL, MySQL
  - Mobile: React Native
  - Redes: RouterOs
+ - Outros: Grafana, Zabbix
 ## Contatos
  - [E-mail](matoslarissa31@gmail.com) 💌
  - [Linkedin](https://linkedin.com/in/larissa-matos-b069091a1) 🔗
