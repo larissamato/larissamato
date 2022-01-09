@@ -6,7 +6,7 @@ Atualmente trabalho como analista de redes e pretendo seguir carreira como DEV.
 Meu objetivo com o Git é compartilhar e registrar o que venho aprendendo, espero que gostem! ❤️
 
 ## Conhecimentos
- - Front-End: HTML, CSS, JS, ReactJS, Bootstrap
+ - Front-End: HTML5, CSS, ReactJS, Bootstrap
  - Back-End: NodeJS
  - Database: PostgreSQL, MySQL
  - Mobile: React Native
