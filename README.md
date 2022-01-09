@@ -7,7 +7,7 @@ Meu objetivo com o Git é compartilhar e registrar o que venho aprendendo, esper
 
 ## Conhecimentos
  - Front-End: HTML, CSS, JS, ReactJS, Bootstrap
- - Back-End: NodeJS, Java, C++
+ - Back-End: NodeJS
  - Database: PostgreSQL, MySQL
  - Mobile: React Native
  - Redes: RouterOs
