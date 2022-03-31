@@ -13,9 +13,8 @@ Meu objetivo com o Git é compartilhar e registrar o que venho aprendendo, esper
  - Redes: RouterOs
  - Outros: Grafana, Zabbix
 ## Contatos
- - [E-mail](matoslarissa31@gmail.com) 💌
+ 
  - [Linkedin](https://linkedin.com/in/larissa-matos-b069091a1) 🔗
- - [Instagram](https://www.instagram.com/lari_rodrigues312/) 📷
 
 
 
