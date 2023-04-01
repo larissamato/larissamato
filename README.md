@@ -1,4 +1,4 @@
-### Hey 👋, I'm Larissa
+### Hey 🤙, I'm Larissa
 
 [![Github](https://img.shields.io/github/followers/larissamato?label=Follow&style=social)](https://github.com/larissamato)
 
