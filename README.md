@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/larissamato?label=Follow&style=social)](https://github.com/larissamato)
 
-Hello, my name is Larissa Matos, I'm 21 years old and I'm a bachelor's student in Computer Science at the Federal Institute of Goiás. I fell in love with programming since I was young and I still follow it today. My goal with Git is to share and record what I've been learning, I hope you like it! ❤️
+Hello, my name is Larissa Matos, I'm 23 years old and I'm a bachelor's student in Computer Science at the Federal Institute of Goiás. I fell in love with programming since I was young and I still follow it today. My goal with Git is to share and record what I've been learning, I hope you like it! ❤️
 
 <br/>
 
