@@ -4,6 +4,10 @@
 [![Github](https://img.shields.io/github/followers/larissamato?label=Follow&style=social)](https://github.com/larissamato)
 
 Hello, my name is Larissa Matos, I'm 23 years old and I'm a bachelor's student in Information Systems at the Federal Institute of Goiás. My goal with Git is to share and record what I've been learning.
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=larissamato&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=larissamato&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ 
 * * *
 
 <div style="display: inline_block">
