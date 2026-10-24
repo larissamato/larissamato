@@ -3,7 +3,7 @@
 
 [![Github](https://img.shields.io/github/followers/larissamato?label=Follow&style=social)](https://github.com/larissamato)
 
-Hello, my name is Larissa Matos, I'm 23 years old and I'm a bachelor's student in Information Systems at the Federal Institute of Goiás. My goal with Git is to share and record what I've been learning.
+Hello, my name is Larissa Matos, I'm 25 years old and I'm a bachelor's student in Information Systems at the Federal Institute of Goiás. My goal with Git is to share and record what I've been learning.
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
